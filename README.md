@@ -16,7 +16,7 @@ This project is a full-stack **Twitter Sentiment Analysis** pipeline that fetche
 
  🛠️ Tech Stack
 
-- Python
+- Python 
   - `tweepy` – Twitter API access
   - `NLTK` – Sentiment analysis with VADER
   - `TextBlob` – Polarity scoring
